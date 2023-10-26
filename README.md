@@ -9,4 +9,4 @@ I'm **Siomara Murta**, passionate about software development and its challenges 
 - :books::notebook_with_decorative_cover: Postgraduate student in Software Development;
 - :surfer::microphone: Free time with music, books, tv shows and travel ♥ ️ :hearts:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siomara-murta//)](https://www.linkedin.com/in/siomara-murta/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siomaramurta/)](https://www.linkedin.com/in/siomaramurta/)
