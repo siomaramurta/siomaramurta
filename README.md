@@ -11,5 +11,3 @@ I'm **Siomara Murta**, passionate about software development and its challenges 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siomaramurta/)](https://www.linkedin.com/in/siomaramurta/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siomaramurta/)](https://www.linkedin.com/in/siomaramurta/)
-
