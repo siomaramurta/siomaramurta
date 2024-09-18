@@ -3,7 +3,7 @@
 I'm **Siomara Murta**, passionate about software development and its challenges <3 
 
 - :woman: Software developement student since 2020;
-- :bank: Currently working as Quality Assurance Analyst at Track.co [track.co](https://track.co/);
+- :bank: Currently working as a Software Developer at Track.co [track.co](https://track.co/);
 - :blue_heart: In love with techonologies, such as Javascript, Python and Golang;
 - :books::notebook_with_decorative_cover: Bachelor in International Relations;
 - :books::notebook_with_decorative_cover: Postgraduate student in Software Development;
