@@ -3,7 +3,6 @@
 I'm **Siomara Murta**, passionate about software development and its challenges <3 
 
 - :woman: Software developement student since 2020;
-- :bank: Currently working as a Software Developer at [Track.co](https://track.co/);
 - :blue_heart: In love with techonologies, such as Javascript, Python and Golang;
 - :books::notebook_with_decorative_cover: Bachelor in International Relations;
 - :books::notebook_with_decorative_cover: Postgraduate degree in Software Development;
