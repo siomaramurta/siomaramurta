@@ -1,6 +1,6 @@
 <h1>Hiii, how are you??</h1>
 
-I'm **Siomara Murta**, passionate about software development and its challenges <3 
+I'm **Siomara Murta**, passionate about technology and its challenges <3 
 
 - :woman: Software developement student since 2020;
 - :blue_heart: In love with techonologies, such as Javascript, Python and Golang;
